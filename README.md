@@ -1,0 +1,2 @@
+# picture
+Typora+PicGo+GitHub
